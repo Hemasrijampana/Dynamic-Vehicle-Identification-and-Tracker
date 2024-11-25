@@ -6,19 +6,18 @@ The Dynamic Vehicle Identification and Tracker is a powerful tool for automating
 Key Features
 
 Authentication and Support:
-
 Sign-Up and Sign-In: Secure access for all users.
 Forget Password: Password recovery feature.
 Contact Us: Page for addressing user queries.
-Services:
 
+Services:
 Image Upload: Identifies the state name from the license plate in uploaded images.
 Video Upload: Detects vehicle number plates and their corresponding state names from video files.
+
 User Features:
-
 View personal search history for uploaded images and videos.
-Admin Controls:
 
+Admin Controls:
 Manage user profiles and accounts.
 Monitor and access user upload history.
 
