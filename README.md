@@ -36,7 +36,7 @@ Technologies Used
 
 Backend: Python, OpenCV, Tesseract OCR.
 
-Frontend: HTML,CSS,Java Script
+Frontend: HTML,CSS.
 
 Database: SQLite for secure data storage.
 
