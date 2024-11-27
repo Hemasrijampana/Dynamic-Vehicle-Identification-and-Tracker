@@ -40,3 +40,6 @@ Frontend: HTML,CSS,Java Script
 
 Database: SQLite for secure data storage.
 
+Algorithm : SVM (Support Vector Machine)
+
+Libraries : Open CV, pytesseract, PIL, Numpy
