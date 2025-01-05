@@ -34,7 +34,7 @@ vehiclerecognition-final/
 1. *Clone the Repository:*
 
    bash
-   git clone https://github.com/pavankumarkasula73/Dynamic-Vehicle-Identification-and-Tracker.git
+   git clone (https://github.com/Hemasrijampana/Dynamic-Vehicle-Identification-and-Tracker)
    cd vehiclerecognition-final
    
 
